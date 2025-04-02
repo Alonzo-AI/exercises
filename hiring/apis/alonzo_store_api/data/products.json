@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "image": "https://m.media-amazon.com/images/I/81o8bHAXG3L._AC_UY1000_.jpg",
+    "category": "Shoes",
+    "price": 59.99,
+    "description": "Comfortable running shoes",
+    "stock_available": 12
+  },
+  {
+    "id": 2,
+    "name": "Graphic T-Shirt",
+    "image": "https://veirdo.in/cdn/shop/files/ai_creative_0000_Layer_6.jpg?v=1736570574",
+    "category": "Clothing",
+    "price": 19.99,
+    "description": "Cotton t-shirt with a cool graphic",
+    "stock_available": 30
+  },
+  {
+    "id": 3,
+    "name": "Baseball Cap",
+    "image": "https://m.media-amazon.com/images/I/611u5FWVgNL._AC_UY1100_.jpg",
+    "category": "Accessories",
+    "price": 14.99,
+    "description": "Stylish cap for all seasons",
+    "stock_available": 20
+  }
+]
