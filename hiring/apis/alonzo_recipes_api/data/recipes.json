@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Aglio e Olio",
+    "description": "Simple and flavorful Italian pasta.",
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2021/12/spaghetti-aglio-e-olio4.jpg",
+    "category": "Italian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "ingredients": [
+      { "ingredient": "spaghetti", "quantity": 200, "unit": "g" },
+      { "ingredient": "garlic", "quantity": 4, "unit": "cloves" },
+      { "ingredient": "olive oil", "quantity": 0.25, "unit": "cup" },
+      { "ingredient": "red pepper flakes", "quantity": 0.5, "unit": "tsp" },
+      { "ingredient": "salt", "quantity": 1, "unit": "tsp" },
+      { "ingredient": "parsley", "quantity": 2, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Boil pasta until al dente.",
+      "Heat oil, sauté garlic until golden.",
+      "Add chili flakes, mix with pasta.",
+      "Garnish with parsley and serve."
+    ],
+    "dietary": ["vegetarian", "dairy-free", "gluten-free"]
+  },
+  {
+    "id": 2,
+    "title": "Classic Pancakes",
+    "description": "Fluffy pancakes for a perfect breakfast.",
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/fluffyamericanpancak_74828_16x9.jpg",
+    "category": "Breakfast",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "ingredients": [
+      { "ingredient": "flour", "quantity": 1.5, "unit": "cups" },
+      { "ingredient": "baking powder", "quantity": 3.5, "unit": "tsp" },
+      { "ingredient": "salt", "quantity": 1, "unit": "tsp" },
+      { "ingredient": "sugar", "quantity": 1, "unit": "tbsp" },
+      { "ingredient": "milk", "quantity": 1.25, "unit": "cups" },
+      { "ingredient": "egg", "quantity": 1, "unit": "unit" },
+      { "ingredient": "butter", "quantity": 3, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Mix dry ingredients in a bowl.",
+      "Add milk, egg, and melted butter. Stir until smooth.",
+      "Heat a lightly oiled griddle over medium heat.",
+      "Pour batter and cook until golden on both sides."
+    ],
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": 3,
+    "title": "Chickpea Salad",
+    "description": "A quick, refreshing protein-packed salad.",
+    "image": "https://cookieandkate.com/images/2021/08/best-chickpea-salad-recipe-2.jpg",
+    "category": "Salad",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "ingredients": [
+      { "ingredient": "chickpeas", "quantity": 1, "unit": "can" },
+      { "ingredient": "cucumber", "quantity": 0.5, "unit": "cup" },
+      { "ingredient": "cherry tomatoes", "quantity": 0.5, "unit": "cup" },
+      { "ingredient": "red onion", "quantity": 0.25, "unit": "cup" },
+      { "ingredient": "lemon juice", "quantity": 2, "unit": "tbsp" },
+      { "ingredient": "olive oil", "quantity": 1, "unit": "tbsp" },
+      { "ingredient": "parsley", "quantity": 2, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Drain and rinse chickpeas.",
+      "Chop all vegetables and herbs.",
+      "Combine everything in a bowl.",
+      "Drizzle lemon juice and olive oil, mix well."
+    ],
+    "dietary": ["vegan", "gluten-free"]
+  },
+  {
+    "id": 4,
+    "title": "Paneer Butter Masala",
+    "description": "Rich and creamy Indian curry made with paneer.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/paneer-butter-masala-recipe.webp",
+    "category": "Indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "ingredients": [
+      { "ingredient": "paneer", "quantity": 250, "unit": "g" },
+      { "ingredient": "tomato puree", "quantity": 1, "unit": "cup" },
+      { "ingredient": "butter", "quantity": 2, "unit": "tbsp" },
+      { "ingredient": "cream", "quantity": 0.25, "unit": "cup" },
+      { "ingredient": "ginger garlic paste", "quantity": 1, "unit": "tbsp" },
+      { "ingredient": "garam masala", "quantity": 1, "unit": "tsp" },
+      { "ingredient": "kasuri methi", "quantity": 1, "unit": "tsp" },
+      { "ingredient": "salt", "quantity": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Sauté ginger garlic paste in butter.",
+      "Add tomato puree, cook until thick.",
+      "Add spices and cream, simmer gently.",
+      "Add paneer cubes and simmer 5–7 minutes."
+    ],
+    "dietary": ["vegetarian", "gluten-free"]
+  }
+]
