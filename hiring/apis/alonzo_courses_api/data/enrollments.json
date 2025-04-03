@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "student_name": "Ganesh",
+    "course_id": 1,
+    "completed_lessons": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "student_name": "Sita",
+    "course_id": 2,
+    "completed_lessons": []
+  },
+  {
+    "id": 3,
+    "student_name": "Ram",
+    "course_id": 3,
+    "completed_lessons": [
+      1,
+      2
+    ]
+  }
+]

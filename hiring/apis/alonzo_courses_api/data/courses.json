@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to React",
+    "description": "Learn the basics of React.js and component-based UI development.",
+    "instructor": "Alice",
+    "tags": [
+      "frontend",
+      "react"
+    ],
+    "category": "Web Development",
+    "level": "beginner",
+    "duration": 10,
+    "image": "https://example.com/images/courses/react.png",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "React Components",
+        "content": "Understanding components in React.",
+        "image": "https://example.com/images/lessons/components.png"
+      },
+      {
+        "id": 2,
+        "title": "JSX and Props",
+        "content": "Learn how JSX and props work.",
+        "image": "https://example.com/images/lessons/jsx.png"
+      },
+      {
+        "id": 3,
+        "title": "Hooks Overview",
+        "content": "Learn useState and useEffect.",
+        "image": "https://example.com/images/lessons/hooks.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Data Science with Python",
+    "description": "Explore data science fundamentals using Python and pandas.",
+    "instructor": "Bob",
+    "tags": [
+      "data",
+      "python",
+      "pandas"
+    ],
+    "category": "Data Science",
+    "level": "intermediate",
+    "duration": 15,
+    "image": "https://example.com/images/courses/data-science.png",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "DataFrames",
+        "content": "Intro to pandas DataFrames.",
+        "image": "https://example.com/images/lessons/dataframes.png"
+      },
+      {
+        "id": 2,
+        "title": "Data Cleaning",
+        "content": "Best practices in cleaning data.",
+        "image": "https://example.com/images/lessons/cleaning.png"
+      },
+      {
+        "id": 3,
+        "title": "Visualization",
+        "content": "Plotting data with matplotlib.",
+        "image": "https://example.com/images/lessons/plots.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "AI Ethics",
+    "description": "Understand the ethical implications of artificial intelligence.",
+    "instructor": "Manish",
+    "tags": [
+      "ai",
+      "ethics"
+    ],
+    "category": "Artificial Intelligence",
+    "level": "advanced",
+    "duration": 8,
+    "image": "https://example.com/images/courses/ai-ethics.png",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Bias in AI",
+        "content": "Detecting and mitigating bias.",
+        "image": "https://example.com/images/lessons/bias.png"
+      },
+      {
+        "id": 2,
+        "title": "Fairness",
+        "content": "Designing fair algorithms.",
+        "image": "https://example.com/images/lessons/fairness.png"
+      },
+      {
+        "id": 3,
+        "title": "Regulation",
+        "content": "Laws and standards in AI.",
+        "image": "https://example.com/images/lessons/regulation.png"
+      }
+    ]
+  }
+]
