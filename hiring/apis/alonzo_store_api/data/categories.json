@@ -1,5 +1,18 @@
 [
-  { "id": 1, "name": "Shoes" },
-  { "id": 2, "name": "Clothing" },
-  { "id": 3, "name": "Accessories" }
+  {
+    "id": 1,
+    "name": "Shoes"
+  },
+  {
+    "id": 2,
+    "name": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Shampoo"
+  }
 ]

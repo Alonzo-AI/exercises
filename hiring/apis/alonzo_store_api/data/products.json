@@ -25,5 +25,14 @@
     "price": 14.99,
     "description": "Stylish cap for all seasons",
     "stock_available": 20
+  },
+  {
+    "id": 4,
+    "name": "Head & Shoulders",
+    "image": "https://m.media-amazon.com/images/I/71FpHXDGZOL.jpg",
+    "category": "Shampoo",
+    "price": 20.0,
+    "description": "This is a new shampoo",
+    "stock_available": 10
   }
 ]
